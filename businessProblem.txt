@@ -1,3 +1,3 @@
-Problem: I am currently on planning to move to Boston or Philadelphia and I want to choose which to move to. I love museums and plan on moving to whichever city has the best museum neighborhood. I want to examine which city has the most museums in their most museum dense neighborhood so I can choose to live there (hypothetically). I also want to examine which has more museums per neighborhood.
+Problem: I am currently on planning to move to Boston or New York City and I want to choose which to move to. I love museums and plan on moving to whichever city has the best museum neighborhood. I want to examine which city has the most museums in their most museum dense neighborhood so I can choose to live there (hypothetically). I also want to examine which has more museums per neighborhood.
 
 Data: The data will originally come from a wikipedia list of neighborhoods in each city which will then be probed for geolocational data as well as foursquare venue data.
